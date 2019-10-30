@@ -1,0 +1,31 @@
+
+.header {
+    
+    background-color: #212529;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.header__logo  a{
+    color: white;
+}
+
+.header .header__navegacion ul {
+    display: flex;
+}
+
+.header .header__navegacion ul li {
+    margin: 0 20px;
+}
+
+.header .header__navegacion ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
